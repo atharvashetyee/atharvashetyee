@@ -26,8 +26,6 @@ Here are a few projects from my portfolio:
 
 * **Farm AI**: A web application that includes a crop disease detection system, crop recommendation, weather updates, and a chatbot for farmers.
 * **Diabetes Prediction Model**: A model created using the SVM model in Python that predicts whether a patient has diabetes based on required inputs.
-* **Supply Chain Analytics & Optimization**: Examined supply chain data to monitor inventory levels, optimize logistics, and assess supplier performance. Built data visualizations to highlight inefficiencies and recommend cost-saving measures.
-* **T20 Cricket World Cup Data Analytics**: Visualized scoring patterns, strike rates, and team-wise success metrics to derive actionable sports insights.
 
 ---
 
