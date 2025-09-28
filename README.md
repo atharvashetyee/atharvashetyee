@@ -28,10 +28,11 @@ Here are a few projects from my portfolio:
 * **Diabetes Prediction Model**: A model created using the SVM model in Python that predicts whether a patient has diabetes based on required inputs.
 
 ---
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?user=atharvashetyee&color_snake=blue&color_dots=#ffb3c1,#ff8fab,#fb6f92,#ff4d6d)
 
 ### 📊 My GitHub Stats
 
 [![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvashetyee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvashetyee&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?user=atharvashetyee)
