@@ -16,7 +16,7 @@ I am a passionate Computer Science Engineer with a strong foundation in data str
 * **Database Management**: MySQL, MongoDB
 * **Web Development**: HTML, CSS, JavaScript
 * **BI & Visualization**: Power BI, Tableau
-* **Software & Concepts**: OOPS, Git, ServiceNow, Excel, AWS, Azure
+* **Software & Concepts**: OOPS, Git, Excel, AWS, Azure
 
 ---
 
