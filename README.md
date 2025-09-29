@@ -12,7 +12,7 @@ I am a passionate Computer Science Engineer with a strong foundation in data str
 ### 🛠️ My Technical Skills
 
 * **Big Data Technologies**: Hadoop, Spark, HDFS, Hive, MapReduce
-* **Programming Languages**: Java, Python, Scala
+* **Programming Languages**: Java, Python
 * **Database Management**: MySQL, MongoDB
 * **Web Development**: HTML, CSS, JavaScript
 * **BI & Visualization**: Power BI, Tableau
