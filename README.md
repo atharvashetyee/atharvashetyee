@@ -20,14 +20,6 @@ I am a passionate Computer Science Engineer with a strong foundation in data str
 
 ---
 
-### 🚀 Featured Projects
-
-Here are a few projects from my portfolio:
-
-* **Farm AI**: A web application that includes a crop disease detection system, crop recommendation, weather updates, and a chatbot for farmers.
-* **Diabetes Prediction Model**: A model created using the SVM model in Python that predicts whether a patient has diabetes based on required inputs.
-
----
 
 ### 📊 My GitHub Stats
 
