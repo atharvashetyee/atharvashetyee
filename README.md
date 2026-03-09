@@ -13,10 +13,10 @@ I am a passionate Computer Science Engineer with a strong foundation in data str
 
 * **Big Data Technologies**: Hadoop, Spark, HDFS, Hive, MapReduce
 * **Programming Languages**: Java, Python
-* **Database Management**: MySQL, MongoDB
+* **Database Management**: MySQL
 * **Web Development**: HTML, CSS, JavaScript
 * **BI & Visualization**: Power BI, Tableau
-* **Software & Concepts**: OOPS, Git, Excel, AWS, Azure
+* **Software & Concepts**: OOPS, Git, Excel, AWS
 
 ---
 
