@@ -5,7 +5,7 @@ I am a passionate Computer Science Engineer with a strong foundation in data str
 - 🎓 I'm a student in the **Post Graduate Diploma in Big Data Analytics (PG-DBDA)** program,at CDAC,Kharghar
 - 📜 Bachelor of Engineering in Computer Science (AI & ML) along with honors in Data Science from the University of Mumbai (2025 Batch)
 - 🎯 I am seeking a challenging position where I can leverage my expertise in both software development and big data to contribute to innovative projects.
-- 📫 You can reach me at: **shetyeatharva4@gmail.com** or connect with me on **[LinkedIn](https://www.linkedin.com/in/atharva-shetye-cse/)**.
+- 📫 You can reach me at: **atharvashetye.cse@gmail.com** or connect with me on **[LinkedIn](https://www.linkedin.com/in/atharva-shetye-cse/)**.
 
 ---
 
